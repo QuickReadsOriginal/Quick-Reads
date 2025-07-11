@@ -116,7 +116,7 @@
 
   <!-- Story 1 -->
   <div id="story-1" class="tab-content">
-    <h2>The Mysterious Forest</h2>
+    <h2> Mysterious Forest</h2>
     <div class="story">
       Deep inside the hills of Eldara, there was a forest that whispered secrets...
     </div>
