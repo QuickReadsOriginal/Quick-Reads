@@ -116,9 +116,9 @@
 
   <!-- Story 1 -->
   <div id="story-1" class="tab-content">
-    <h2> Mysterious Forest</h2>
+    <h2>The Murder Files Of 2008</h2>
     <div class="story">
-      Deep inside the hills of Eldara, there was a forest that whispered secrets...
+      A scream, a thud, police sirens going their usual rythmaic tone of 'Wee Woo', and the annoying noise of repoters asking the same questions a hundred time, not to mention that police sirens were equally annoying too. These were the sound that the residents near the house of the Mayor of the city Cloville, Mrs. Kathleen Crest, heard at the dusk of dawn, around 6, on the dreadful date of 17th October, 2008. And if it wasn't obvious enough, these events took place, because Mrs. Kathleen had fell two stories, and died.
     </div>
 
     <div class="rating" data-story="story-1">
